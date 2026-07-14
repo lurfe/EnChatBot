@@ -15,5 +15,6 @@ train_dataset/
 *.pth
 *.bin
 *.safetensors
+*.arrow
 
 .env
