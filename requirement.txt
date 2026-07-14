@@ -1,6 +1,6 @@
 torch
 gec-datasets
-datasets==3.0.1
+datasets
 accelerate==0.34.2
 sentencepiece==0.2.0
 transformers==4.45.2

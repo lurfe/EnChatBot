@@ -21,3 +21,6 @@ train_dataset/
 train_dataset/
 eval_dataset/
 *.arrow
+train_dataset/
+eval_dataset/
+*.arrow
