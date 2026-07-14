@@ -1,0 +1,13 @@
+torch
+gec-datasets
+accelerate
+sentencepiece
+
+flask
+
+nltk
+rapidfuzz
+
+python-dotenv
+
+pydantic
