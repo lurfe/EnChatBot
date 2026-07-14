@@ -3,7 +3,7 @@ gec-datasets
 datasets
 accelerate
 sentencepiece
-
+transformers==4.56.1
 flask
 
 nltk
