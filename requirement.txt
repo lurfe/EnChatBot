@@ -1,11 +1,11 @@
 torch
 gec-datasets
-datasets
-accelerate
-sentencepiece
-transformers==4.56.1
+datasets==3.0.1
+accelerate==0.34.2
+sentencepiece==0.2.0
+transformers==4.45.2
 flask
-
+tokenizers==0.20.1
 nltk
 rapidfuzz
 
@@ -16,3 +16,5 @@ pydantic
 evaluate
 
 sacrebleu
+
+huggingface_hub==0.25.2

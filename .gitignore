@@ -8,6 +8,8 @@ checkpoints/
 models/
 datasets/
 gec_dataset_base/
+eval_dataset/
+train_dataset/
 
 *.pt
 *.pth
