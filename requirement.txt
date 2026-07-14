@@ -1,5 +1,6 @@
 torch
 gec-datasets
+datasets
 accelerate
 sentencepiece
 
@@ -11,3 +12,7 @@ rapidfuzz
 python-dotenv
 
 pydantic
+
+evaluate
+
+sacrebleu
