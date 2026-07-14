@@ -7,6 +7,7 @@ logs/
 checkpoints/
 models/
 datasets/
+gec_dataset_base/
 
 *.pt
 *.pth
